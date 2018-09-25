@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Outreachy internship
 
-You can use the [editor on GitHub](https://github.com/Enkelena/outreachyRound/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Applications are now open for Outreachy, an internship program that supports diversity in free and open source software. 
+Outreachy is a world-wide program that provides  three-month internships with a $5,500 stipend and a $500 travel stipend to work in Free and Open Source Software (FOSS).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Interns work remotely with experienced mentors in free and internships are often focused on programming tasks, but some projects offer internships in user experience design, graphic design, documentation, web development, marketing, translation, and more. Interns often find employment after their internship with Outreachy sponsors or in jobs that use the skills they learned during their internship.
 
-### Markdown
+The program expressly invites women and groups who face under-representation, systematic bias or discrimination in the technology industry of their country to apply.
+Outreachy internships run twice a year. Now its the round of “End of year” internships, the application process is open on September, it lasts 6 weeks and its due to October, interns are announced on November while the internship starts on December and ends on March of the next year.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img align="right" src="poster.png">
 
-```markdown
-Syntax highlighted code block
+Applying to Outreachy is a little different than other internship programs. During the application period (September 19 to October 30), applicants are expected to make contact with one or more of the project mentors and make a contribution to the project. Outreachy organizers have found that the strongest applicants contact mentors early, ask a lot of questions, and continually submit small contributions throughout the application period.
 
-# Header 1
-## Header 2
-### Header 3
+Each round, Outreachy has a Twitter chat to introduce the program. We have questions for both mentors and alums. Potential Outreachy applicants are welcome to ask questions of mentors and interns after the chat.
+The next #OutreachyChat will be on Monday, October 1 2018.
+Here is how the chat will work for mentors and alums:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Enkelena/outreachyRound/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Outreachy organizers will be tweeting from @outreachy account and will pose the questions below with an interval of 5-10 minutes between questions. The questions are prefaced with Q1, Q2, and so on, and correspondingly, you will need to reply with A1, A2, and so on in your answers. You will also need to use the hashtag #OutreachyChat in all your tweets related to the chat.
