@@ -18,4 +18,4 @@ Here is how the chat will work for mentors and alums:
 
 The Outreachy organizers will be tweeting from @outreachy account and will pose the questions below with an interval of 5-10 minutes between questions. The questions are prefaced with Q1, Q2, and so on, and correspondingly, you will need to reply with A1, A2, and so on in your answers. You will also need to use the hashtag #OutreachyChat in all your tweets related to the chat.
 
-For more information, follow the link: https://www.outreachy.org/
+For more information, follow the link: [https://www.outreachy.org/](https://www.outreachy.org/)
